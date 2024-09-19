@@ -24,6 +24,6 @@
 
 
 
-*Community health files for the [@Jackblanket847](https://github.com/github) organization*
+*Community health files for the [@Jackblanket847]([https://github.com/Jackblanket847] ) organization*
 
 For more information, please see the article on [creating a default community health file for your organization](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization).
