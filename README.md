@@ -58,9 +58,9 @@ When using the GitHub logos, be sure to follow the [GitHub logo guidelines](http
 
 Thanks for all your contributions and efforts towards improving the GitHub documentation. We thank you for being part of our :sparkles: community :sparkles:!
 
-- 👋 Hi, I’m 
- ✨ Jackblanket847/.Jackblanket847 ✨
- ✨[Jackblanket847/.Jackblanket847/README.md](Jackblanket847/.Jackblanket847/README.md)✨
+- [!👋](jackblanket847/jackblanket847.github.io) ~---- Hi, I’m 
+
+✨[Jackblanket847/.Jackblanket847/profile/README.md](Jackblanket847/.Jackblanket847/profile/README.md)✨
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
