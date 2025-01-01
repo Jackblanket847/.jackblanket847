@@ -41,7 +41,7 @@ In addition to the README you're reading right now, this repo includes other REA
 - [data/reusables/README.md](data/reusables/README.md)
 - [data/variables/README.md](data/variables/README.md)
 - [ios-system/README.md](ios-system/README.md)
-- [mental-health-entertainment/README.md](mental-health-entertainment.md)
+- [mental-health-enterprise/README.md](mental-health-enterprise.md)
 - [mhe/README.md](mhe/README.md)
 - [src/README.md](src/README.md)
 
