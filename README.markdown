@@ -1,8 +1,8 @@
-# index.html'
+# Jackblanket847/Jackblanket847
 
-(/content)[.content]
+##  (/content)[.content]
 ---
-title: '{% data variables.product.product_name %}{% ifversion fpt or ghec%}.com{% endif %} Help Documentation'
+title: '{% data env.enterprise.nuthouse_managementgroup %}{% ifversion ghec%}.com{% endif %} Help Documentation'
 featuredLinks:
   gettingStarted:
     - /get-started/getting-started-with-git/set-up-git
